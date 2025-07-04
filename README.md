@@ -2,7 +2,7 @@
 Chat with Your Notes is an intelligent web application that allows users to upload PDF documents (like lecture notes, manuals, or research papers) and interact with them conversationally. Powered by Google Gemini and ChromaDB, it uses Retrieval-Augmented Generation (RAG) to understand your document and generate context-aware answers to user queries.
 
 🚀 Features
-🧠 Ask questions directly about your uploaded PDFs
+🧠 Ask questions directly about your uploaded PDFs 
 
 🔍 Retrieves relevant chunks using vector embeddings (ChromaDB)
 
