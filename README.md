@@ -12,7 +12,7 @@ Chat with Your Notes is an intelligent web application that allows users to uplo
 
 💬 Real-time conversational UI (Flask backend + JS frontend)
 
-🔐 (Optional) Login system using Firebase or Flask-Login
+
 
 🧪 Tested with various document types and edge cases
 
@@ -21,7 +21,7 @@ Backend: Python, Flask, Google Generative AI SDK, ChromaDB
 
 Frontend: HTML, CSS, JavaScript
 
-AI Model: gemini-1.5-flash (Free-tier)
+AI Model: gemini-1.5-flash 
 
 Vector DB: ChromaDB with cosine similarity
 
@@ -47,7 +47,6 @@ User dashboards with saved PDFs
 
 Multilingual question support
 
-Public demo deployment (Render/Hugging Face)
 
 
 
